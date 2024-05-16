@@ -1,0 +1,19 @@
+#primeira{
+    background: #001F5F;
+    color:#fff;
+}
+#primeira .col-auto>ul{
+    margin: 0;
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    height: 46px;
+    align-items: center;
+    font-size: 12px;
+
+}
+#primeira button{
+    border: none;
+    background-color:transparent ;
+    color: inherit;
+}
